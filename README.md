@@ -4,17 +4,17 @@
 
 ### 게임 화면
 
-![start](.\readme_image\start.PNG)
+![start](./readme_image/start.PNG)
 
-![playing](.\readme_image\playing.PNG)
+![playing](./readme_image/playing.PNG)
 
-![start](.\readme_image\start.gif)
+![start](./readme_image/start.gif)
 
 ### 게임 방법
 
 - 마우스 드래그를 이용해 인접한 두 블럭의 위치를 바꿀 수 있습니다. 
 
-  ![playing](.\readme_image\playing.gif)
+  ![playing](./readme_image/playing.gif)
 
 - 이런 방법으로 같은 색깔의 블럭이 3개 이상 일렬로 정렬된다면 그 블럭들은 사라집니다. 
 - 사라진 블럭의 개수 만큼 점수가 올라갑니다. 
